@@ -6,3 +6,5 @@ nav{align-items:center;overflow:visible}nav a{min-width:0;flex:1}.record-entry{f
 
 .record-entry.recording .record-circle{background:#ed5366;box-shadow:0 0 0 6px #ed536618;font-size:23px}.record-entry.recording{color:#d94155}
 .recording-diagnostics{margin:0 22px 120px;padding:18px;background:#fff;border:1px solid #cbd8ec;border-radius:18px}.recording-diagnostics p{font-size:13px;color:#66758b}.recording-diagnostics pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px;line-height:1.5;color:#253650}.recording-diagnostics button{font-size:14px}
+
+.pronunciation{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:10px 0}.pronunciation button{font-size:14px;min-height:40px}.pronunciation-status{font-size:13px;color:#62758e}.word-card .example>div{min-width:0;flex:1}.review-card .pronunciation{justify-content:center}.pronunciation [hidden]{display:none}
