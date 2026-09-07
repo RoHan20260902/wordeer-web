@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "entries": 100000,
+  "senses": 237806,
+  "forms": 46998,
+  "examples": 97964,
+  "relations": 210525,
+  "chinese_entries": 99997,
+  "wordnet_enriched_entries": 81926,
+  "valid_chinese_candidates": 758488,
+  "normalized_duplicate_rows_merged": 0,
+  "old_entries_retained": 26284,
+  "selection": "Retain all previous entries, then exam/frequency-ranked, WordNet-attested, lowercase and shorter headwords; Chinese definitions required. Forms counted separately.",
+  "database_sha256": "4f3558f041134c5185400787bececd36a9a252a8d1628716e3dbbb4f0c34c061",
+  "source_sha256": {
+    "ECDICT": "1a6947e04785db63613a92e14903cdae7954f7e84860b10e68e5c7cbb3f9c3cf",
+    "OEWN": "9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe"
+  },
+  "limitations": "100k headwords include phrases; not every possible word. No invented Chinese translations or usage nuance. WordNet senses remain source-specific, not guessed alignments to Chinese senses.",
+  "unique_example_texts": 47573
+}
