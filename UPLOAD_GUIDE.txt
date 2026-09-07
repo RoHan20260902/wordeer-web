@@ -1,0 +1,7 @@
+Wordeer GitHub Pages 测试包（2026-09-07）
+
+解压后上传包内全部文件及 assets 文件夹，保持目录结构。index.html 应直接位于 GitHub Pages 发布目录根层。不要上传 ZIP 文件本身。
+
+在 iPhone Safari 中打开 GitHub Pages 的 HTTPS 页面测试。已有数据请先在“我的”导出备份；同域名同浏览器保存原词库，新域名需导入备份。语音识别依赖 Safari 支持、权限及服务可用性，本包未做 iPhone 实机验收。
+
+版本：中文释义主版本（含 WordNet 补充数据）。
